@@ -1,6 +1,6 @@
 ## Hi!
 
-I'm a self taught developer creating ~~games~~ *(or rather game engines 💀)* in my free time.
+I'm a self taught developer creating ~~games~~ *( or rather game engines* 💀 *)* in my free time.
 With regards to languages, I've been all over the place but most of my experience lies with Godot's [GDScript](https://godotengine.org), [Rust](https://rust-lang.org), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp).
 
 ***
